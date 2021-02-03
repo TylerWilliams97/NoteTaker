@@ -13,5 +13,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "heroku": "^7.47.11"
+  },
+  "engines": {
+    "node": "15.x"
   }
 }
